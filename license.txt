@@ -1,6 +1,0 @@
-theme components
-
-npm@landkit
-https://landkit.goodthemes.co/docs/index.html
-
-
